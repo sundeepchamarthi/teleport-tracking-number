@@ -6,4 +6,6 @@ import org.springframework.stereotype.Repository;
 
 @Repository
 public interface TrackingNumberRepo extends JpaRepository<TrackingNumber,Long> {
+
+    boolean existsByTrackingNumber(String trackingNumber);
 }
