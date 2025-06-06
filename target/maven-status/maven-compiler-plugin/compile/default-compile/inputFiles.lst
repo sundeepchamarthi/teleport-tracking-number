@@ -1,0 +1,11 @@
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\controllers\TrackingNumberController.java
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\entities\TrackingNumber.java
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\exception\BadRequestException.java
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\exception\ConflictException.java
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\exception\InternalServerErrorException.java
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\model\TrackingNumberResponse.java
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\repository\TrackingNumberRepo.java
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\service\impl\TrackingNumberServiceImpl.java
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\service\TrackingNumberService.java
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\TrackingNumberServiceApplication.java
+C:\Users\User\IdeaProjects\teleport-tracking-number\src\main\java\com\teleport\TrackingNumberService\util\TrackingNumberGenerator.java
